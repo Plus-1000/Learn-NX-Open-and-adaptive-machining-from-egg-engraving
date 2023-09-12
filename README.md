@@ -1,5 +1,5 @@
-# The Learn_NX_Open
-
+# Learn_NX_Open
+Learn NXOPEN step by step: 
 
 
 
