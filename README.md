@@ -1,13 +1,17 @@
 # Learn NX Open and Adaptive Machining from egg engraving
-Adaptive machining process can be split into two steps: 
-## **1. detect part deformation**  
+The adaptive machining process can be split into two steps: 
+## **1. Detect job deformation**  
         Detect part distortion by probe:
-        Part deformation can be checked by probe or scanner, here we use probe as example: 
+        Part deformation can be checked by probe or scanner, here we use the probe as an example: 
 
-        When probe hit part along Z direction, we can get Z distance of destining point,
-        as the  X, Y value defined earlier, we write point 1's X,Y,Z value to txt file.We plan to check 20 points in this step.
-        
-## **2. generate machining toolpath for CNC or robot**
+        When the probe hits part along the Z direction, we can get the Z distance of the destining point,
+        as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt file. We plan to check 20 points in this step.
+        <p align="center">
+<img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/check%20dist.jpg length="150">
+</p>
+
+<br/>
+## **2. Generate machining toolpath for CNC or robot**
 
         2.1   
 
