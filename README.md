@@ -24,7 +24,7 @@ The adaptive machining process can be split into two steps:
 
 <br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1_probe%2020%20pts.jpg length="160" >
+<img src=(https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1_read%20probing%20points%20from%20csv%20file.JPG length="160" >
 </p>
 
 <br/>
