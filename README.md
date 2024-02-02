@@ -29,5 +29,8 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 
+## **3. test Generate machining toolpath for CNC or robot**
+
+
 https://github.com/Plus-1000/Learn_NX_Open/assets/67260387/bee8f803-8efd-4543-a77f-804f110029b2
 
