@@ -7,7 +7,7 @@ The adaptive machining process can be split into two steps:
         When the probe hits part along the Z direction, we can get the Z distance of the destining point,
         as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt file. We plan to check 20 points in this step.
         <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1_probe%2020%20pts.jpg length="150">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1_probe%2020%20pts.jpg length="100">
 </p>
 
 <br/>
