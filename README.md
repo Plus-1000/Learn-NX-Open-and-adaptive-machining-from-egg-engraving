@@ -37,7 +37,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 
-> 2.1   Create through curve face from splines
+> 2.3   Create through curve face from splines
 
 <br/>
 <p align="center">
@@ -46,7 +46,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 
-> 2.1   Create thicken and extract
+> 2.4   Create thicken and extract
 
 <br/>
 <p align="center">
@@ -55,7 +55,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 
-> 2.1   Create points from probing data (stored in csv file)
+> 2.5   Create points from probing data (stored in csv file)
 
 <br/>
 <p align="center">
@@ -64,6 +64,16 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 ## **3. test Generate machining toolpath for CNC or robot**
+
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/3%20compare%20toolpaths.jpg width="800" >
+</p>
+
+<br/>
+
+
+
 
 
 https://github.com/Plus-1000/Learn_NX_Open/assets/67260387/bee8f803-8efd-4543-a77f-804f110029b2
