@@ -68,7 +68,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 </p>
 
 <br/>
-##3. Move the pt 20 2mm in Z+, run codes again
+## 3. Move the pt 20 2mm in Z+, run codes again
 
 <br/>
 <p align="center">
