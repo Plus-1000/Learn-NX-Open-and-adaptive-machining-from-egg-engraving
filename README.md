@@ -10,7 +10,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1 probe%2020%20pts.jpg width="800" >
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1 probe 20 pts.jpg width="800" >
 </p>
 
 <br/>
