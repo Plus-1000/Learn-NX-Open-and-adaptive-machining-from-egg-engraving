@@ -26,10 +26,43 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="800" >
 </p>
+<br/>
+
+> 2.2   Create splines from points 
+
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="800" >
+</p>
 
 <br/>
 
+> 2.1   Create through curve face from splines
 
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="800" >
+</p>
+
+<br/>
+
+> 2.1   Create thicken and extract
+
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="800" >
+</p>
+
+<br/>
+
+> 2.1   Create points from probing data (stored in csv file)
+
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="800" >
+</p>
+
+<br/>
 ## **3. test Generate machining toolpath for CNC or robot**
 
 
