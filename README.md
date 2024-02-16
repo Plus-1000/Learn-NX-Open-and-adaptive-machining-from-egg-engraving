@@ -60,7 +60,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 <br/>
 
 > 2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, create tools and toolpath, stop the recording, and save.
->> Open it again, change the Drive Geometry with the face which's named "EXTRACT01" then run the VB codes, the toolpath will be regenerated. 
+>> Open it again, change the Drive Geometry with the face which is named "EXTRACT01" then run the VB codes, the toolpath will be regenerated. 
 <br/>
 
 <p align="center">
@@ -80,7 +80,8 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 
 
-Working environment: NX12, VS2019
+For this testing, we utilize Siemens NX12 and Visual Studio 2019, for any comments or suggestions, please leave a message at wjian88@gmail.com. Thank you.
+Wang Jian 2024 Feb 17.
 
 https://github.com/Plus-1000/Learn_NX_Open/assets/67260387/bee8f803-8efd-4543-a77f-804f110029b2
 
