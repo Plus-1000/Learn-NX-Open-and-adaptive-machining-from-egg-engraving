@@ -49,9 +49,9 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 
-> 2.4   Create thicken and extract
+> 2.4   Create thicken and extract face from bottom
 > <br/>
->> The thickness of the thicken feature should be the radius of the probe (3mm), we obtain the face that is touching the egg face, extract the face, and rename it as our toolpath 
+>> The thickness of the "thicken" feature should be the radius of the probe (3mm), we obtain the bottom face that is touching the egg face, extract the face, and rename it as "EXTRACE01", it will be used to generate toolpath next step.
 <br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.4%20face%20offset.jpg width="800" >
@@ -59,8 +59,9 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 <br/>
 
-> 2.5   Create points from probing data (stored in csv file)
-
+> 2.5  Continue from last step, we create machining operation in same NX file, create tools and toolpath and record the journal from start, the we open the codes recorded and  
+> <br/>
+>> We created toolpath manually, record journal codes, 
 <br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5%20create%20toolpath.JPG width="800" >
