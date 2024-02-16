@@ -62,10 +62,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 > 2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, create tools and toolpath, stop the recording, and save.
 > >> Open it again, change the Drive Geometry with the face which's named "EXTRACT01" then run the VB codes, the toolpath will be regenerated. 
 <br/>
->  
-> <br/>
->> We created toolpath manually, record journal codes, 
-<br/>
+
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5%20create%20toolpath.JPG width="800" >
 </p>
