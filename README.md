@@ -28,7 +28,8 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 </p>
 <br/>
 
-> 2.2   Create splines from points 
+> 2.2   Create splines from points
+> Many parameters will be defined here; incorrect parameters will result in inaccuracies in the created spline (surface)
 
 <br/>
 <p align="center">
