@@ -20,7 +20,7 @@ as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt 
 
 ## **2. Generate machining toolpath for CNC or robot**
 
-> <b>2.1   Create points from probing data (stored in .csv file)**
+> <b>2.1   Create points from probing data (stored in .csv file)** <br/>
 > </b>
 If PC to CNC connection is ready, you can read point file from PC, or copy it to PC, run apps and import points to NX CADCAM interface. 
 
