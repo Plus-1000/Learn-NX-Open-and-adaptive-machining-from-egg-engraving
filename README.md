@@ -32,7 +32,7 @@ If PC to CNC connection is ready, you can read point file from PC, or copy it to
 
 > 2.2   Create splines from points
 > <br/>
->> Many parameters will be defined here; incorrect parameters will result in inaccuracies in the created spline (surface)
+>> Some parameters will be defined here; incorrect parameters will result in inaccuracies in the created spline (surface)
 
 <br/>
 <p align="center">
