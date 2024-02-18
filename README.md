@@ -35,7 +35,7 @@ If PC to CNC connection is ready, you can read point file from PC, or copy it to
 
 <br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2%20create%20splines%20from%20points.JPG width="800" >
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2%20create%20splines%20from%20points.JPG width="600" >
 </p>
 
 <br/>
