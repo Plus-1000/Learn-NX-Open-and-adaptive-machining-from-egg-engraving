@@ -10,7 +10,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1%20probe%2020%20pts.jpg width="600" >
-
+<b>
 
 
 ## 2. Generate machining toolpath for CNC or robot 
