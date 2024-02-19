@@ -1,4 +1,4 @@
-# Learn NX Open and Adaptive Machining from egg engraving
+# Learn NX Open and Adaptive Machining technique from egg engraving
 The adaptive machining process can be split into two steps: 
 ## **1. Detect job deformation**  
 Detect part distortion by probe:
