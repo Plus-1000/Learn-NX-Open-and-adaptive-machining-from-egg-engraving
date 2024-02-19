@@ -50,7 +50,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 > 2.3   Create through curve face from splines
 > <br/>
->> Now we have created a face from the probe center points, we may arrange a manual face-to-face deviation checking to know the mismatch. (ignored here)
+>> Now we have created a face from the splines, we may arrange a manual face-to-face deviation checking to know the mismatch. (ignored here)
 <br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.3%20create%20through%20curves%20face%20from%20splines.jpg width="600" >
@@ -60,7 +60,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 > 2.4   Create thicken and extract face from the bottom.
 > <br/>
->> The thickness of the "thicken" feature should be the radius of the probe (3mm), now we obtained the bottom face that is touching the egg face, extracted the face, and renamed it as "EXTRACE01", it will be used to generate toolpath next step.
+>> The thickness value of the "thicken" feature should be the radius of the probe (3mm), now we obtained the bottom face that is touching the egg face, extracted the face, and renamed it as "EXTRACE01", it will be used to generate toolpath in next step.
 <br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.4%20face%20offset.jpg width="600" >
