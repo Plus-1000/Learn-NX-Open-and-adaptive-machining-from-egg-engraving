@@ -64,7 +64,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5%20create%20toolpath.JPG width="600" >
 <br/>
 
-## 3. Move the pt 20 2mm in Z+, run codes again
+## 3. Move the pt 20 2mm along the Z+ direction, run all codes again
 
 <br/>
 <p align="center">
