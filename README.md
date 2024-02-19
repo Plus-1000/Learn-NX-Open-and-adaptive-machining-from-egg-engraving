@@ -65,11 +65,11 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.4%20face%20offset.jpg width="600" >
 </p>
-
 <br/>
 
+<br/>
 > 2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, select face "EXTRACE01" as Drive Method, create tools and toolpath, stop the recording, and save.
-
+<br/>
 
 
 
