@@ -33,6 +33,13 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 > 2.2   Create splines from points
 > <br/>
 >> Some parameters will be defined here; incorrect parameters will result in inaccuracies in the created spline (surface)
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2a%20create%20splines%20from%20points.JPG width="600" >
+</p>
+
+<br/>
+
 
 <br/>
 <p align="center">
