@@ -15,8 +15,6 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 ## 2. Generate machining toolpath for CNC or robot 
 
 > ### 2.1   Create points from probing data
-> 
-
 >>  If the PC to CNC connection is ready, you can access the point coordinate file from the PC, or copy it to the PC, run apps and create points within NX CADCAM.
 
 
