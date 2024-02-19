@@ -12,15 +12,15 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1%20probe%2020%20pts.jpg width="600" >
 </p>
-
 <br/>
 
 
 
 
-## 2. Generate machining toolpath for CNC or robot
+## 2. Generate machining toolpath for CNC or robot 
 
-> <b>2.1   Create points from probing data <br/>
+> <b> ** 2.1   Create points from probing data **
+> <br/>
 > </b>
 >>If the PC to CNC connection is ready, you can access the point coordinate file from the PC, or copy it to the PC, run apps and create points within NX CADCAM. 
 
