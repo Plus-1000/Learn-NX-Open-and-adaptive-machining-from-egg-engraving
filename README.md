@@ -19,7 +19,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="600" >
 <b>
   
-> 2.2   Create splines from points
+> ### 2.2 Create splines from points
 >> Some parameters will be defined here; incorrect parameters will result in inaccuracies in the created spline (surface)
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2a%20create%20splines%20from%20points.JPG width="600" 
@@ -31,7 +31,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 <br/>
 
-> 2.3   Create through curve face from splines
+> ### 2.3 Create through curve face from splines
 > <br/>
 >> Now we have created a face from the splines, we may arrange a manual face-to-face deviation checking to know the mismatch. (ignored here)
 <br/>
@@ -41,14 +41,14 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 <br/>
 
-> 2.4   Create thicken and extract face from the bottom.
+> 2.4 ###  Create thicken and extract face from the bottom.
 > <br/>
 >> The thickness value of the "thicken" feature should be the radius of the probe (3mm), now we obtained the bottom face that is touching the egg face, extracted the face, and renamed it as "EXTRACE01", it will be used to generate toolpath in next step.
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.4%20face%20offset.jpg width="600" >
 <br>
   
-> ###2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, select face "EXTRACE01" as Drive Method, create tools and toolpath, stop the recording, and save.###
+> ### 2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, select face "EXTRACE01" as Drive Method, create tools and toolpath, stop the recording, and save.###
 <br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5a%20create%20toolpath.JPG width="600" >
