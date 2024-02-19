@@ -41,8 +41,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 <br/>
 
-> 2.4 ###  Create thicken and extract face from the bottom.
-> <br/>
+> ### 2.4 Create thicken and extract face from the bottom.
 >> The thickness value of the "thicken" feature should be the radius of the probe (3mm), now we obtained the bottom face that is touching the egg face, extracted the face, and renamed it as "EXTRACE01", it will be used to generate toolpath in next step.
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.4%20face%20offset.jpg width="600" >
