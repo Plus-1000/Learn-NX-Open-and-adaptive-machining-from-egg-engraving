@@ -2,9 +2,9 @@
 The adaptive machining process can be split into two steps: 
 ## **1. Detect job deformation**  
 Detect part distortion by probe:
-<br/> Part deformation can be checked by probe or scanner, here we use the probe as an example: 
+<br/> >> Part deformation can be checked by probe or scanner, here we use the probe as an example: 
 
-When the probe hits part along the Z direction, we can get the Z distance of the destining point,
+>> When the probe hits part along the Z direction, we can get the Z distance of the destining point,
 as the  X, Y value defined earlier, we write point 1's X, Y, Z value to the txt file. We plan to check 20 points in this step, the point file was stored in CNC controller in txt or .NC format. 
 
 
