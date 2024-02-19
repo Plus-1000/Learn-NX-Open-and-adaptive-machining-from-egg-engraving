@@ -78,7 +78,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 </p>
 
 <br/>
-Open journal codes, change the Drive Geometry with the face which is named "EXTRACT01" then build .dll file, then run it from NX CADCAM interface. 
+> Open journal codes, change the Drive Geometry with the face which is named "EXTRACT01" then build .dll file, then run it from NX CADCAM interface. 
 <br/>
 
 <p align="center">
