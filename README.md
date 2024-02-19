@@ -16,25 +16,16 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 > ### 2.1   Create points from probing data
 >>  If the PC to CNC connection is ready, you can access the point coordinate file from the PC, or copy it to the PC, run apps and create points within NX CADCAM.
-
-
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="600" >
-</p>
-
-
+<b>
+  
 > 2.2   Create splines from points
-> <br/>
 >> Some parameters will be defined here; incorrect parameters will result in inaccuracies in the created spline (surface)
-<br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2a%20create%20splines%20from%20points.JPG width="600" >
-</p>
-
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2a%20create%20splines%20from%20points.JPG width="600" 
 <br/>
 
-
-<br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.2%20create%20splines%20from%20points.JPG width="600" >
 </p>
