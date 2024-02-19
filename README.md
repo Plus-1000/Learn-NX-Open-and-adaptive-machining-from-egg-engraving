@@ -7,7 +7,6 @@ Part deformation can be checked by probe or scanner, here we use the probe as an
 
 When the probe hits part along the Z direction, we can get the Z coordinate of the destining point, the reading pt in the diagram below.
 As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to the txt file. We plan to check 20 points in this step, the point file was stored in CNC controller in txt or .NC format.   
-
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1%20probe%2020%20pts.jpg width="600" >
 <b>
