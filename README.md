@@ -77,7 +77,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 For this testing, we utilize Siemens NX12 and Visual Studio 2019, for any comments or suggestions, please leave a message at wjian88@gmail.com. Thank you.  
 
-Wang Jian 2024 Feb 17.
+Wang Jian, 2024 Feb 17.
 
 https://github.com/Plus-1000/Learn_NX_Open/assets/67260387/bee8f803-8efd-4543-a77f-804f110029b2
 
