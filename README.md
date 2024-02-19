@@ -26,7 +26,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 <br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="600" >
+<img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.1%20read%20points%20from%20csv.jpg width="400" >
 </p>
 <br/>
 
