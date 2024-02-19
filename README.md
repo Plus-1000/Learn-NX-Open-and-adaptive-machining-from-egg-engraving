@@ -49,24 +49,19 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
   
 > ### 2.5 Generate toolpath
 > > Continue from the last step, we start the journal recording, create the machining operation in the same NX file, select face "EXTRACE01" as Drive Method, create tools and toolpath, stop the recording, and save.
-<br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5a%20create%20toolpath.JPG width="600" >
-</p>
-
 <br/>
-> Open journal codes, change the Drive Geometry with the face which is named "EXTRACT01" then build .dll file, then run it from NX CADCAM interface. 
+
+>> Open journal codes, change the Drive Geometry with the face which is named "EXTRACT01" then build .dll file, then run it from NX CADCAM interface. 
 <br/>
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5b%20create%20toolpath.JPG width="600" >
-</p>
 <br/>
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5%20create%20toolpath.JPG width="600" >
-</p>
-
 <br/>
 
 ## 3. Move the pt 20 2mm in Z+, run codes again
