@@ -68,7 +68,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 
 <br/>
 
-> 2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, create tools and toolpath, stop the recording, and save.
+> 2.5  Continue from the last step, we start the journal recording, create the machining operation in the same NX file, select face "EXTRACE01" as Drive Method, create tools and toolpath, stop the recording, and save.
 
 
 <p align="center">
