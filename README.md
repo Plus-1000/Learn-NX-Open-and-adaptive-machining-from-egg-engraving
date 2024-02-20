@@ -94,7 +94,8 @@ Move the pt 20 2mm along the Z+ direction, run all codes again
 
 For this testing, we utilize Siemens NX12 and Visual Studio 2019, for any comments or suggestions, please leave a message at wjian88@gmail.com. Thank you.  
 
-Wang Jian, 2024 Feb 17.
+Wang Jian, 2024 Feb 17.  
+===============================================================================
 
 Click the picture below to see how it works:   
 
