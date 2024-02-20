@@ -12,7 +12,7 @@ Due to limited skills in computer coding and understanding of NXOPEN, these stud
 
 ----------------------------
 
-Every egg is unique. When carving an egg, two key points are involved: detecting the shape of the egg and automatically generating a toolpath. Consequently, the adaptive machining process can be divided into two steps:   
+As for every egg is unique. When carving an egg, two key points are involved: detecting the shape of the egg and automatically generating a toolpath. Consequently, the adaptive machining process can be divided into two steps:   
 
 ## **1. Detect part deformation**  
 Detect part distortion by probe:    
