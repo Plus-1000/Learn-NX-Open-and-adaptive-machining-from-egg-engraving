@@ -8,13 +8,7 @@ Click the picture below to see the movie from TTL:
 Click the picture below to see the movie from JINGDIAO:     
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/2ylW4YDFr9g/0.jpg)](https://www.youtube.com/watch?v=2ylW4YDFr9g)
 
-
-
-
-
-
-
-Every egg is unique. There are two key points in the steps of carving an egg. Detecting the shape of the egg and automatically generating a toolpath. So the machining process can be split into two steps: 
+Every egg is unique, there are two key points in the steps of carving an egg, detecting the shape of the egg and automatically generating a toolpath, So the machining process can be split into two steps: 
 ## **1. Detect part deformation**  
 Detect part distortion by probe:    
 Part deformation can be checked by probe or scanner, here we use the probe as an example:   
