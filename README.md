@@ -46,7 +46,6 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <br/>
 
 > ### 2.3 Create through curve face from splines
-> <br/>
 >> Now we have created a face from the splines, we may arrange a manual face-to-face deviation checking to know the mismatch. (ignored here)
 <br/>
 <p align="center">
