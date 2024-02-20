@@ -99,7 +99,6 @@ Wang Jian, 2024 Feb 17.
 --------------------------------------
 
 The movie below shows step 2.1~2.5 mentioned above:   
-
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/nmtSOpe3bGA/0.jpg)](https://www.youtube.com/watch?v=nmtSOpe3bGA)
 
 
