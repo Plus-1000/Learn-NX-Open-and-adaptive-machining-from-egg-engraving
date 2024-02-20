@@ -2,14 +2,10 @@
 This is a fictional attempt to unlock the secrets of magical CNC egg engraving
 
 Click the picture below to see the movie from TTL:     
-
-<p align="center">
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/ZKnJ4k-d2gs/0.jpg)](https://www.youtube.com/watch?v=ZKnJ4k-d2gs)
 
   
 Click the picture below to see the movie from JINGDIAO:     
-
-<p align="center">
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/2ylW4YDFr9g/0.jpg)](https://www.youtube.com/watch?v=2ylW4YDFr9g)
 
 
