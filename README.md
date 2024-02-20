@@ -79,10 +79,7 @@ For this testing, we utilize Siemens NX12 and Visual Studio 2019, for any commen
 
 Wang Jian, 2024 Feb 17.
 
-<br/>
-<p align="center">
-<img src=https://github.com/Plus-1000/Create-point-set-on-face-with-NX-Open/blob/main/image/Min%20max%20adjacent%20dist%20check.jpg length="280" >
-</p>
-
-<br/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nmtSOpe3bGA 
+" target="_blank"><img src="http://img.youtube.com/vi/nmtSOpe3bGA /0.jpg" 
+alt="MOVIE" width="240" height="180" border="10" /></a>
 
