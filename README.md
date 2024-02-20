@@ -79,6 +79,13 @@ For this testing, we utilize Siemens NX12 and Visual Studio 2019, for any commen
 
 Wang Jian, 2024 Feb 17.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nmtSOpe3bGA/0.jpg)](https://www.youtube.com/watch?v=nmtSOpe3bGA)
+
+
+
+
+
+
 
 [![Create points on face with NX OPEN](https://res.cloudinary.com/marcomontalbano/image/upload/v1708411822/video_to_markdown/images/youtube--nmtSOpe3bGA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=nmtSOpe3bGA "Create points on face with NX OPEN")
 
