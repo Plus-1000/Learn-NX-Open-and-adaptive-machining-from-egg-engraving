@@ -1,5 +1,5 @@
 # Learn NX Open and Adaptive Machining technique from egg engraving
-This is a fictional attempt to unlock the secrets of magical CNC egg carving: 
+This is a fictional attempt to unlock the secrets of magical CNC egg engraving
 
 Click the picture below to see the movie from TTL:   
 
