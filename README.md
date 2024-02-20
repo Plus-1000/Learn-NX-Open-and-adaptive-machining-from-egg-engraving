@@ -67,10 +67,9 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 ## 3. Confirmation  
 Move the pt 20 2mm along the Z+ direction, run all codes again
 
-<br/>
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/3%20compare%20toolpaths.jpg width="600" >
-</p>
+
 
 <br/>
 
