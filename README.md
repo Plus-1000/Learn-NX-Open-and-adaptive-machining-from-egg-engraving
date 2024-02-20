@@ -8,7 +8,7 @@ Click the picture below to see the movie from TTL:
 Click the picture below to see the movie from JINGDIAO:     
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/2ylW4YDFr9g/0.jpg)](https://www.youtube.com/watch?v=2ylW4YDFr9g)  
 I was deeply attracted when the first time I saw the videos, about a year ago, I tried to learn NX OPEN and VB.NET, attempting to uncover the secrets behind egg engraving.
-Because of my limited skills in computer coding and understanding of NXOPEN, these studies are proceed at an entry level.  
+Due to limited skills in computer coding and understanding of NXOPEN, these studies are proceeding at an entry level and progressing slowly.
 
 Every egg is unique. When carving an egg, two key points are involved: detecting the shape of the egg and automatically generating a toolpath. Consequently, the adaptive machining process can be divided into two steps:   
 
