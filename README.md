@@ -14,7 +14,7 @@ Click the picture below to see the movie from JINGDIAO:
 
 
 
-The adaptive machining process can be split into two steps: 
+Every egg is unique. There are two key points in the steps of carving an egg. Detecting the shape of the egg and automatically generating a toolpath. So the machining process can be split into two steps: 
 ## **1. Detect part deformation**  
 Detect part distortion by probe:    
 Part deformation can be checked by probe or scanner, here we use the probe as an example:   
