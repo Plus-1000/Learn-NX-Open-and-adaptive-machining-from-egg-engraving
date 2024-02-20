@@ -96,7 +96,7 @@ For this testing, we utilize Siemens NX12 and Visual Studio 2019, if you are int
 
 Wang Jian, 2024 Feb 17.    
 
-===============================================================================
+--------------------------------------
 
 The movie below shows all steps mentioned above:   
 
