@@ -90,7 +90,7 @@ Wang Jian, 2024 Feb 17.
 
 ===============================================================================
 
-Click the picture below to see how it works:   
+The movie below shows all steps mentioned above:   
 
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/nmtSOpe3bGA/0.jpg)](https://www.youtube.com/watch?v=nmtSOpe3bGA)
 
