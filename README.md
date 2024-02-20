@@ -7,8 +7,7 @@ Click the picture below to see the movie from TTL:
   
 Click the picture below to see the movie from JINGDIAO:     
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/2ylW4YDFr9g/0.jpg)](https://www.youtube.com/watch?v=2ylW4YDFr9g)  
-I was deeply attracted when the first time I saw the videos. About a year ago, I tried to learn NX OPEN and VB.NET, attempting to uncover the secrets behind egg engraving.
-Due to limited skills in computer coding and understanding of NXOPEN, these studies are proceeding at an entry level and progressing slowly, appreciate my boss, colleagues, and friends for their kind help, guidance, and support. 
+I was deeply attracted when the first time I saw the videos. About a year ago, I've been trying to learn NX OPEN and VB.NET, aiming to uncover the secrets behind egg engraving. Due to limited skills in computer coding and understanding of NXOPEN, these studies are progressing slowly at an entry level. Nonetheless, I'm grateful to my boss, colleagues, and friends for their kind help, guidance, and support.
 
 ----------------------------
 
