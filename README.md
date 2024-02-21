@@ -7,11 +7,11 @@ Click the picture below to see the movie from TTL:
   
 Click the picture below to see the movie from JINGDIAO:     
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/2ylW4YDFr9g/0.jpg)](https://www.youtube.com/watch?v=2ylW4YDFr9g)  
-I was deeply attracted when the first time I saw the videos. About a year ago, I've been trying to learn NX OPEN and VB.NET, aiming to uncover the secrets behind egg engraving. Due to limited skills in computer coding and understanding of NXOPEN, these studies are progressing slowly at an entry level. Nonetheless, I'm grateful to my boss, colleagues, and friends for their kind help, guidance, and support.
+I was deeply attracted when the first time I saw the videos. About a year ago, I've been trying to learn NX OPEN and VB.NET, aiming to uncover the secrets behind egg engraving. Due to limited skills in computer coding and understanding of NXOPEN, these studies are progressing slowly at an entry-level. Nonetheless, I'm grateful to my boss, colleagues, and friends for their kind help, guidance, and support.
 
 ----------------------------
 
-As every egg is unique. When carving an egg, two key points are involved: detecting the shape of the egg and automatically generating a toolpath. Consequently, the adaptive machining process involves two steps:   
+As every egg is unique, when carving an egg, two key points could be addressed: detecting the shape of the egg and automatically generating a toolpath. Consequently, the simple adaptive machining process involves two steps:   
 
 ## **1. Detect part deformation**  
 Detect part distortion by probe:    
@@ -19,7 +19,7 @@ Part deformation can be checked by probe or scanner, here we use the probe as an
 
 
 When the probe hits part along the Z- direction, we can get the Z coordinate of the destining point, the reading pt in the diagram below.
-As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to the txt file. We plan to check 20 points in this step, the point file was stored in CNC controller in txt or .NC format.   
+As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to the txt file. We plan to check 20 points in this step, the point file was stored in the CNC controller in txt or .NC format.   
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/1%20probe%2020%20pts.jpg width="600" >
 <b>
