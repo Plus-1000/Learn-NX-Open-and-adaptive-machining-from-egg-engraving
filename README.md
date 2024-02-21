@@ -69,7 +69,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/2.5a%20create%20toolpath.JPG width="600" >
 <br/>
 
->> Open journal codes, change the Drive Geometry with the face which is named "EXTRACT01" then build .dll file, run it from NX-->File-->Excute, the toolpath will be generated. 
+>> Open journal codes recorded, change the Drive Geometry with the face which is named "EXTRACT01" then build .dll file, run it from NX-->File-->Excute, the toolpath will be generated. 
 <br/>
 
 <p align="center">
