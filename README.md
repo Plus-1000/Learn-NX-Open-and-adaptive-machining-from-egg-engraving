@@ -1,5 +1,5 @@
 # Learn NX Open and Adaptive Machining technique from egg engraving
-This fictional attempt seeks to uncover the process of CNC egg engraving, all the efforts are confined to process analysis and coding, without any actual egg engraving taking place on the CNC machine.
+This fictional attempt seeks to uncover the process of CNC egg engraving, all the efforts are confined to process analysis and coding, without egg engraving taking place on the CNC machine.
 
 Click the picture below to see the movie from TTL:     
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/ZKnJ4k-d2gs/0.jpg)](https://www.youtube.com/watch?v=ZKnJ4k-d2gs)
