@@ -81,7 +81,7 @@ As the  X, Y value defined earlier, we write point_1's X, Y, Z(center) value to 
 <br/>
 
 ## 3. Confirmation  
-Move the pt 20 2mm along the Z+ direction, execute the entire codes (2.1~2.5), we observe  toolpath was updated accordinately. 
+Move the pt 20 2mm along the Z+ direction, execute the entire codes (2.1~2.5), we observe toolpath was updated accordingly. 
 
 <p align="center">
 <img src=https://github.com/Plus-1000/Learn-NX-Open-and-adaptive-machining-from-egg-engraving/blob/main/image/3%20compare%20toolpaths.jpg width="600" >
@@ -93,11 +93,11 @@ Move the pt 20 2mm along the Z+ direction, execute the entire codes (2.1~2.5), w
 
 For this testing, we utilize Siemens NX12 and Visual Studio 2019, if you are interested in the topic, we welcome your comments or suggestions, please leave a message at wjian88@gmail.com. Thank you.  
 
-Wang Jian, 2024 Feb 17.    
+Wang Jian, 2024 Feb 12.    
 
 --------------------------------------
 
-The movie below shows step 2.1~2.5 mentioned above:   
+The movie below shows steps 2.1~2.5 mentioned above:   
 [![Create points on face with NX OPEN](https://img.youtube.com/vi/v9PnJA1PkYM/0.jpg)](https://www.youtube.com/watch?v=v9PnJA1PkYM)
 
 
